@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="holochess.pdf">
+   sodipodi:docname="dejarik.svg">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -321,7 +321,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -384,7 +384,7 @@
                y="48.317822"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:NanumMyeongjo;-inkscape-font-specification:NanumMyeongjo" /></flowRegion><flowPara
              style="font-size:34.47542953px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-             id="flowPara5171">Holochess</flowPara></flowRoot>      </g>
+             id="flowPara5171">Dejarik</flowPara></flowRoot>      </g>
       <flowRoot
          transform="matrix(0.31300633,0,0,0.31300633,-129.95896,951.93397)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
@@ -421,7 +421,7 @@
        sodipodi:cy="243.48816"
        sodipodi:rx="83"
        sodipodi:ry="83"
-       d="m -624,243.48816 a 83,83 0 1 1 -166,0 83,83 0 1 1 166,0 z"
+       d="m -624,243.48816 c 0,45.83963 -37.16037,83 -83,83 -45.83963,0 -83,-37.16037 -83,-83 0,-45.83964 37.16037,-83 83,-83 45.83963,0 83,37.16036 83,83 z"
        transform="matrix(0.81325301,0,0,0.81325301,432.46992,-277.15528)" />
     <path
        sodipodi:type="arc"
@@ -431,7 +431,7 @@
        sodipodi:cy="243.48816"
        sodipodi:rx="83"
        sodipodi:ry="83"
-       d="m -624,243.48816 a 83,83 0 1 1 -166,0 83,83 0 1 1 166,0 z"
+       d="m -624,243.48816 c 0,45.83963 -37.16037,83 -83,83 -45.83963,0 -83,-37.16037 -83,-83 0,-45.83964 37.16037,-83 83,-83 45.83963,0 83,37.16036 83,83 z"
        transform="matrix(0.80838323,0,0,0.80838323,425.12032,-488.06292)" />
   </g>
 </svg>
