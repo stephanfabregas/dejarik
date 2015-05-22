@@ -24,9 +24,9 @@ Setup
 -----
 Each player is assigned control of a pawn color by agreement.
 
-The player in control of the black pawns places three pawns on the three left-most adjacent spaces on the outer ring, and the fourth pawn on the 5th space from the left - the second space from the right - also on the outer ring on that player's side of the board.
+The player in control of the black pawns places three pawns on the three right-most adjacent spaces on the outer ring, and the fourth pawn on the 5th space from the right - the second space from the left, this space should be white - also on the outer ring on that player's side of the board.
 
-Similarly, the player in control of the white pawns places three pawns on the three right-most adjacent spaces on the outer ring, and the fourth pawn on the 5th space form the right - the second space from the left - also on the outer ring on that player's side of the board.
+Similarly, the player in control of the white pawns places three pawns on the three left-most adjacent spaces on the outer ring, and the fourth pawn on the 5th space form the left - the second space from the right, this space should be black - also on the outer ring on that player's side of the board.
 
 Thus, each player's pawns are aligned directly opposed to each other at the start of the game.
 
