@@ -1,13 +1,13 @@
 Dejarik Board
 =============
 
-This is a game board for the holochess game commonly called [Dejarik](http://starwars.wikia.com/wiki/Dejarik), as seen in Star Wars, Episode IV: A New Hope.
+This is a game board for the holoboard games, such as the holochess game commonly called [Dejarik](http://starwars.wikia.com/wiki/Dejarik), as seen in Star Wars, Episode IV: A New Hope.
 
 Both .svg (made with [Inkscape](https://inkscape.org/)) and printable .pdf versions are available.
 
-Standard size Checker game pieces(~1.5-inch diameter) are intended to fit this board, but any set of appropriately sized pawns in two colors or otherwise distinguished designs will do.
+Standard size Checker game pieces(~1.5-inch diameter) are intended to fit this board, but any set of appropriately sized pieces distinguishable designs will do.
 
-See the rules, based on those created by [Igor Barzilai](zeelay.free.fr/star-wars-artisanal/dejarik/regle1.htm), for more details on equipment and game play.
+See the rules for Dejarik, based on those created by [Igor Barzilai](zeelay.free.fr/star-wars-artisanal/dejarik/regle1.htm), and for Holochess/Dejarik and Courtier, based on those created by [Mike Kelly](http://dhost.info/rissa/Holochess), for more details on equipment and game play.
 
 License
 -------
